@@ -12,4 +12,4 @@
 * [源代码](https://github.com/AB360-org/LUAManager/releases)
 
 # 预览
-* [img https://img.picui.cn/free/2024/09/07/66dc2948b5e51.png]
+![预览](https://img.picui.cn/free/2024/09/07/66dc2948b5e51.png "预览")
